@@ -1,7 +1,7 @@
 ## 🛠️ Especificaciones técnicas
 
 - **Lenguaje**: Java
-- **IDE**: Android Studio (Flamingo o superior recomendado)
+- **IDE**: Android Studio
 - **Base de datos**: Firebase Firestore
 - **Autenticación**: Firebase Authentication
 - **Notificaciones**: AlarmManager + BroadcastReceiver
